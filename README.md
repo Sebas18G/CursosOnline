@@ -6,3 +6,8 @@ Durante esta certificación, adquirí conocimientos clave sobre la automatizaci�
 
 <div id="header" align="center"> <img src="/Certificados/Images/Certificación en automatización Essentials_ 2024.jpg" width="100%" alt="sebastian sanchez"/> </div>
 <br>
+
+## Certificación en Automatización Essentials_ 2024
+
+<div id="header" align="center"> <img src="/Certificados/Images/ScrumFundamentalsCertified_page-0001.jpg" width="100%" alt="sebastian sanchez"/> </div>
+<br>
